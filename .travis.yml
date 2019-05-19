@@ -6,5 +6,5 @@ compiler:
 - clang
 - gcc
 script:
-- gcc -o BCM BCM.c
-- ./BCM
+- gcc -o test test.c
+- ./test
