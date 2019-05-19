@@ -1,6 +1,3 @@
-#include<avr/io.h>
-#include<util/delay.h>
-#include <avr/interrupt.h>
 #define mask_var 1
 #define LIGHT1 PD1
 #define PIR1 PD2
